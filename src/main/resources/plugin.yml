@@ -1,0 +1,17 @@
+name: LunaChat
+version: '${project.version}'
+main: dev.arcticgaming.lunachat.LunaChat
+api-version: 1.19
+authors: [ ArcticDev ]
+depend: [ PlaceholderAPI ]
+description: A fancy Chat Plugin
+commands:
+  message:
+    description: sends a message
+    aliases:
+      - dm
+      - msg
+      - tell
+  reply:
+    description: reply to a message
+    aliases: r
