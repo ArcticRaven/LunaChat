@@ -1,6 +1,6 @@
-name: LunaChat
+name: LunaChatMC
 version: '${project.version}'
-main: dev.arcticgaming.lunachat.LunaChat
+main: dev.arcticgaming.lunachatmc.LunaChatMC
 api-version: 1.19
 authors: [ ArcticDev ]
 depend: [ PlaceholderAPI ]
